@@ -1,6 +1,6 @@
 # Overlay Panels
 
-A flexible panel machine for managing overlay panels in casual games.
+A flexible state machine for managing overlay panels in casual games.
 
 ## Features
 
@@ -66,3 +66,7 @@ A flexible panel machine for managing overlay panels in casual games.
 
 ## Example
 A working implementation is available in `ExampleScene`.
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
